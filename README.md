@@ -61,7 +61,10 @@
 </ol>
 
 <h2>📸 Demonstração Visual</h2>
-<img src="images/demo.png" alt="Demonstração do Projeto" width="500">
+<img src="img1.png" width="300">
+<img src="img2.png" width="300">
+<img src="img3.png" width="300">
+<img src="img4.png" width="300">
 
 <h2>🔗 Possíveis Expansões</h2>
 <ul>
