@@ -43,7 +43,7 @@
 <h2>👥 Equipe de Desenvolvimento</h2>
 <ul>
     <li><a href="https://github.com/alexsmagalhaes" target="_blank">Alex Magalhães</a> – Desenvolvimento de Objetos 3D e Modelagem Estrutural</li>
-    <li><a href="https://github.com/gbriel-maia="_blank">Gabriel Gomes</a> – Desenvolvimento de Objetos 3D e Implementação de Funcionalidades</li>
+    <li><a href="https://github.com/gbriel-maia"_blank">Gabriel Gomes</a> – Desenvolvimento de Objetos 3D e Implementação de Funcionalidades</li>
     <li><a href="https://github.com/kailanesarah" target="_blank">Kailane Sarah</a> – Desenvolvimento de Objetos 3D e Texturização</li>
 </ul>
 
